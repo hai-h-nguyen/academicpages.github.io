@@ -1,6 +1,6 @@
 ---
 title: "Autopilot Software Development"
-excerpt: "April, 2013<br/><img src='/images/uav-3.png'>"
+excerpt: "April, 2013<br/><img src='/images/uav-3.jpg'>"
 collection: projects
 permalink: /projects/project-3
 ---
