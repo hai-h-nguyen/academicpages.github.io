@@ -1,14 +1,14 @@
 ---
-title: "CPE 201 Digital Design"
+title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-fall-teaching
+permalink: /teaching/2014-spring-teaching-1
 venue: "University of Nevada, Reno, Department of Computer Science and Engineering"
-date: Fall 2018
-location: "Reno, USA"
+date: 2014-01-01
+location: "Reno, Nevada"
 ---
 
-Lab instructor. 
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
