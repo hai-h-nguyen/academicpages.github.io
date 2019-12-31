@@ -2,9 +2,9 @@
 title: "Deep learning with experience ranking convolutional neural network for robot manipulator"
 collection: publications
 permalink: /publications/arvix-1
-venue: "Arxiv 2019"
+venue: "Arxiv 2019."
 date: 2019-11-20
-citation: '<b>Hai Nguyen</b>, Hung Manh La, Matthew Deans. <i>Arxiv 2019.</i>
+citation: '<b>Hai Nguyen</b>, Hung Manh La, Matthew Deans. <i>Arxiv 2019.</i>'
 ---
 [[PDF]](https://hai-h-nguyen.github.io/files/arvix-1.pdf)
 
