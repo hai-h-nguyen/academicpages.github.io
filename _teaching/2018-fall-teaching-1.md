@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "CPE 201, Digital Design"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-teaching-1
@@ -8,8 +8,7 @@ date: 2014-01-01
 location: "Reno, Nevada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Lab Instructor.
 Heading 1
 ======
 
