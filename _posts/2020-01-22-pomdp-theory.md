@@ -1,11 +1,9 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
+title: 'POMDP'
+date: 2020-01-22
 permalink: /posts/2012/08/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - pomdp theory
 ---
 
 POMDP can be described as a tuple $ <\mathcal{S},\mathcal{A}, \mathcal{T}, \mathcal{R}, \Omega> $ where:
